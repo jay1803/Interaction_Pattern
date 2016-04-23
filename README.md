@@ -1,4 +1,3 @@
-# About
-A project to deisgn interaction pattern for crass platform design. Including some iOS and Android Material Design patterns. Both use same typography and color, some different in layout.
+# About Nightly branch
 
-This files is only for Sketch, if you cannot open the file, pls update your Sketch to the current version.
+Nightly is the current version, but it's unfinished. I will update pattern at ant moment. Once I think it's good for publish, I will rebase nightly into master.'
