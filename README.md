@@ -1,35 +1,13 @@
-# About Nightly branch
+# 关于分支
 
-Nightly is the current version, but it's unfinished. I will update pattern at ant moment. Once I think it's good for publish, I will rebase nightly into master.
+Nightly 是最近的更新文件，我会在每一次更次之后首先提交到 Nightly 分支，在完成一个版本之后再推送到 master。
 
-# About Interaction Pattern File
+# 关于项目
 
-This file will include some useful interaction patterns for mobile design, as a interaction designer, I create those patterns just for wireframe.
+这个项目是做一份高效可重复使用的 Components，包括了 iOS 和 Material Design 中常用的 Components，比如 Tab栏、App Bar、Input 等多种，目前文件已经被分成了多份，分别针对 iOS、Android & 移动 Web、以及桌面 Web 端。
 
-But for User Interface Designer, you will notice some different between original sketch file. I use SHARED STYLE instead of TEXT STYLE to set text color, so that you could just change color in one place, and all buttons, inputs, text, every colorful thing will be change automatically.
+所有的文件均使用最新版的 Sketch 制作，我会在制作完成之后再导出一份 PDF 文件。
 
-But it has some problem with background and text color, they will influent each other. I have no idea how to fix this.
+# 项目进度
 
-I still considering if I should put WEB PATTERN in this file, or create another file.
-
-# Samples
-
-#### TYPOGRAPHY
-
-![Typography](https://github.com/jay1803/Interaction_Pattern/blob/Nightly/shoot/typography.png?raw=true)
-
-#### APP BAR
-
-![App Bar](https://github.com/jay1803/Interaction_Pattern/blob/Nightly/shoot/bar.png?raw=true)
-
-#### TEXT FIELD
-
-![Text Field](https://github.com/jay1803/Interaction_Pattern/blob/Nightly/shoot/input.png?raw=true)
-
-#### LIST
-
-![List](https://github.com/jay1803/Interaction_Pattern/blob/Nightly/shoot/list.png?raw=true)
-
-#### LIST CONTROLLER
-
-![List Controller](https://github.com/jay1803/Interaction_Pattern/blob/Nightly/shoot/list_controller.png?raw=true)
+目前是在重新设计 Material Design，因为 Sketch 的一些新特性的加入，之前制作的已经无法高效的使用了。
